@@ -1,0 +1,23 @@
+{
+  "name": "mernsocialapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.8.2",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "graphql": "^16.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.6",
+    "shortid": "^2.2.16"
+  }
+}
