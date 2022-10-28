@@ -10,3 +10,5 @@ Node.js: Node.js was used as the backend
 React: React was used to create the frontend of the website. It was used to create reusable components.
 
 GraphQL: GraphQL was used as the query language to connect and work with MongoDB. It was used to query data and to modify the data in MongoDB.
+
+Context API: Context API was used to manage the states of the application
