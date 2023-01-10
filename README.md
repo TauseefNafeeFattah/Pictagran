@@ -1,4 +1,4 @@
-# Pictagran
+# Pictagram
 The saying "A picture is worth a thousand words," is at the heart of creating this app. However, this is also true that not everyone can take pictures that can say a thousand words. So, in this app, a user can create a story with a photo and write their experiences and share it to their followers and the world. Users can create their profiles using Facebook login or the app's own login system. Users can follow other users and view their followings. Users can block other users from seeing their post.
 ## Tech Stacks used:
 MongoDB: MongoDB is the database used to store the user data and posts.
